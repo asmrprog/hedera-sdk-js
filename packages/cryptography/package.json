@@ -62,7 +62,7 @@
         "bignumber.js": "^9.1.1",
         "bn.js": "^5.1.1",
         "crypto-js": "^4.1.1",
-        "elliptic": "^6.5.4",
+        "elliptic": "^6.6.0",
         "js-base64": "^3.7.4",
         "tweetnacl": "^1.0.3",
         "utf8": "^3.0.0"
