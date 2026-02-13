@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "@hashgraph/sdk": "link:..",
-        "axios": "^1.2.3",
+        "axios": "^1.13.5",
         "dotenv": "^16.0.3"
     },
     "devDependencies": {
